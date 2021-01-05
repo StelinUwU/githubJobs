@@ -1,2 +1,2 @@
-# githubJobs
+# GithubJobs
 Made with GitHubJobs API
